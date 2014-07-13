@@ -1,11 +1,11 @@
 === WP Scheduled Links ===
 Author URI: http://fahmiadib.wordpress.com
-Plugin URI: http://fahmiadib.wordpress.com/wp-scheduled-links
+Plugin URI: http://fahmiadib.wordpress.com/wp-scheduled-links/
 Contributors: fahmiadib
-Tags: Scheduled Links
+Tags: links
 Requires at least: 3.3
 Tested up to: 3.9.1
-Stable Tag: 1.0
+Stable tag: 1.01
 
 Schedule when link(s) should appear on your post/page
 

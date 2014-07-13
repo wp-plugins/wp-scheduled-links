@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WP Scheduled Links
-Plugin URL: http://fahmiadib.wordpress.com/wp-scheduled-links
+Plugin URL: http://fahmiadib.wordpress.com/wp-scheduled-links/
 Description: Schedule when link(s) should appear on your post/page
-Version: 1.0
+Version: 1.01
 Author: Fahmi Adib
 Author URI: http://fahmiadib.wordpress.com
 Contributors: fahmiadib
