@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP Scheduled Links
-Plugin URL: http://fahmiadib.wordpress.com/wp-scheduled-links/
+Plugin URL: http://fahmiadib.com/plugins/wp-scheduled-links/
 Description: Schedule when link(s) should appear on your post/page
-Version: 1.01
+Version: 1.02
 Author: Fahmi Adib
-Author URI: http://fahmiadib.wordpress.com
+Author URI: http://fahmiadib.com
 Contributors: fahmiadib
 */
 
@@ -43,7 +43,6 @@ function wpsl_add_meta_box() {
     wp_enqueue_script( 'jquery-ui-datepicker' );
     wp_enqueue_style( 'jquery-ui-style', plugins_url('css/jquery-ui.css', __FILE__) );
 }
-
 add_action( 'add_meta_boxes', 'wpsl_add_meta_box' );
 
 /**
@@ -140,5 +139,4 @@ function wpsl_save_meta_box_data( $post_id ) {
 	// Update the meta field in the database.
 	update_post_meta( $post_id, '_wpsl', $my_data );
 }
-
 add_action( 'save_post', 'wpsl_save_meta_box_data' );

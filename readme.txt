@@ -1,17 +1,17 @@
 === WP Scheduled Links ===
-Author URI: http://fahmiadib.wordpress.com
-Plugin URI: http://fahmiadib.wordpress.com/wp-scheduled-links/
+Author URI: http://fahmiadib.com
+Plugin URI: http://fahmiadib.com/plugins/wp-scheduled-links/
 Contributors: fahmiadib
 Tags: links
 Requires at least: 3.3
-Tested up to: 3.9.1
-Stable tag: 1.01
+Tested up to: 4.1
+Stable tag: 1.02
 
 Schedule when link(s) should appear on your post/page
 
 == Description ==
 
-If activated, this plugin will strip all links from your post/page before the date when you set to showing up
+If activated, this plugin will strip all links from your post/page before the date that you set
 
 == Frequently Asked Questions ==
 
